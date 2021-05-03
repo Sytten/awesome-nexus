@@ -21,6 +21,10 @@ A list of plugins made by the community.
 - [nexus-shield](https://github.com/Sytten/nexus-shield)
 - [nexus-plugin-shield](https://github.com/lvauvillier/nexus-plugin-shield)
 
+### APIs
+
+- [nexus-cloudinary](https://github.com/talentlessguy/nexus-cloudinary)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
